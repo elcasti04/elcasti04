@@ -2,10 +2,6 @@
 
 ### Full Stack Developer | Backend Web Developer | Software Engineering Student
 
-I'm a **Backend Web Developer** and **Software Engineering student** passionate about building scalable, secure, and high-performance web applications. My main focus is backend development using **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**, while continuously improving my software engineering skills.
-
-I enjoy solving real-world problems, designing RESTful APIs, optimizing database performance, and building clean, maintainable, and scalable software.
-
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
 
@@ -47,38 +43,6 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-## What I Do
-
-- ⚡ REST API Development
-- 🔐 Authentication & Authorization
-- 🏗 Backend Architecture
-- 🗄 SQL & NoSQL Database Design
-- 🚀 Performance Optimization
-- 🧪 API Testing
-- 📦 CRUD Applications
-- 🔄 Git Workflow & Version Control
-
-
-
-## Education
-
-### University of Cartagena
-**Software Engineering** *(In Progress)*
-
-### Academlo
-**Full Stack Web Developer** *(2025)*
-
-### SENA
-**Software Analysis and Development Technologist** *(In Progress)*
-
-### SENA
-**Diploma in Software Development Quality** *(2025)*
-
-### Platzi
-**Advanced Node.js Diploma** *(2025)*
 
 
 
@@ -148,24 +112,6 @@ Casa de Adoración Roca Firme – Barranquilla
 🌐 **Portfolio:** https://portafolio-andres-castro.netlify.app
 
 📱 **Phone:** +57 312 774 3932
-
-
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 
 
