@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andrés Arturo Castro
 
-### Full Stack Developer | Backend Web Developer | Software Engineering Student
+### Full Stack Web Developer | Junior Data Analyst | Software Engineering Student
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -115,8 +115,5 @@ Casa de Adoración Roca Firme – Barranquilla
 
 
 
-## 💡 Motto
-
-> **Building scalable backend solutions, one API at a time.**
 
 Thanks for visiting my profile! ⭐
