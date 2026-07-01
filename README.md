@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andrés Arturo Castro
 
-### 🚀 Backend Web Developer | Software Engineering Student
+### Full Stack Developer | Backend Web Developer | Software Engineering Student
 
 I'm a **Backend Web Developer** and **Software Engineering student** passionate about building scalable, secure, and high-performance web applications. My main focus is backend development using **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**, while continuously improving my software engineering skills.
 
@@ -8,9 +8,9 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
----
 
-## 👨‍💻 About Me
+
+## About Me
 
 - 🎓 Software Engineering Student at **University of Cartagena**
 - 💻 Backend Web Developer with Full Stack knowledge
@@ -19,9 +19,8 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 - 🤝 Interested in collaborating on innovative and impactful projects
 - 📍 San Pedro, Sucre, Colombia
 
----
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -49,9 +48,9 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 💼 What I Do
+
+## What I Do
 
 - ⚡ REST API Development
 - 🔐 Authentication & Authorization
@@ -62,38 +61,51 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 - 📦 CRUD Applications
 - 🔄 Git Workflow & Version Control
 
----
 
-## 🎓 Education
 
-### 🎓 University of Cartagena
+## Education
+
+### University of Cartagena
 **Software Engineering** *(In Progress)*
 
-### 💻 Academlo
+### Academlo
 **Full Stack Web Developer** *(2025)*
 
-### 🏛 SENA
+### SENA
 **Software Analysis and Development Technologist** *(In Progress)*
 
-### 📜 SENA
+### SENA
 **Diploma in Software Development Quality** *(2025)*
 
-### 📚 Platzi
+### Platzi
 **Advanced Node.js Diploma** *(2025)*
 
----
 
-## 💼 Work Experience
 
-### Backend Web Developer
-**2025 - Present**
+## Work Experience
 
-- Website Structure, Design & Development
-- Backend Development
-- REST API Design
-- SQL & NoSQL Database Management
-- Backend Optimization
-- Remote Collaboration
+### Full Stack Web Developer
+Ihlesia Evangelica Jesucristo Rey Eterno
+2025 - 2026
+
+- Design and development of complete web applications (Frontend & Backend)
+- RESTful API development and integration
+- SQL and NoSQL database management
+- Backend performance optimization and syste
+
+--- 
+
+### Frontend Web Developer (Remote)
+Casa de Adoración Roca Firme – Barranquilla
+2026
+
+- Development of the church’s frontend web interface
+- Implementation of responsive and accessible UI components
+- Website structure and layout design
+- Collaboration with the team to improve user experience
+- Maintenance and updates of the web platform
+
+--- 
 
 ### Masonry Assistant
 **2022 – 2024**
@@ -103,9 +115,9 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 - Tool Management
 - Team Collaboration
 
----
 
-## 🧠 Soft Skills
+
+## Soft Skills
 
 - ✔ Problem Solving
 - ✔ Critical Thinking
@@ -120,16 +132,16 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 - ✔ Ethical Development
 - ✔ Human-AI Collaboration
 
----
 
-## 🌍 Languages
+
+## Languages
 
 - 🇪🇸 Spanish — Native
 - 🇺🇸 English — A1
 
----
 
-## 📫 Contact
+
+## Contact
 
 📧 **Email:** andresppemma@gmail.com
 
@@ -137,35 +149,25 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 
 📱 **Phone:** +57 312 774 3932
 
----
 
-## 📈 GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 🔥 GitHub Streak
+
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 📌 Featured Projects
 
-🚧 Coming Soon...
-
-- 🏨 Hotel Booking API
-- 🛒 E-commerce Backend
-- 📚 Library Management API
-- 📦 Inventory Management System
-
----
 
 ## 💡 Motto
 
