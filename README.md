@@ -85,7 +85,7 @@ I enjoy solving real-world problems, designing RESTful APIs, optimizing database
 ## Work Experience
 
 ### Full Stack Web Developer
-Ihlesia Evangelica Jesucristo Rey Eterno
+Iglesia Evangelica Jesucristo Rey Eterno
 2025 - 2026
 
 - Design and development of complete web applications (Frontend & Backend)
