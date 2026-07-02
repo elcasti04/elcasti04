@@ -101,7 +101,7 @@ Casa de Adoración Roca Firme – Barranquilla
 ## Languages
 
 - 🇪🇸 Spanish — Native
-- 🇺🇸 English — A1
+- 🇺🇸 English — A2
 
 
 
